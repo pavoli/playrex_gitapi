@@ -1,1 +1,1 @@
-# playrex_gitapi
+# playrix_gitapi
