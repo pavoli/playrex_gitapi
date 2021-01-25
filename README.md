@@ -1,1 +1,1 @@
-# playrix_gitapi
+# playrix_githubrequests
